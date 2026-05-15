@@ -1,0 +1,2 @@
+# High-Performance-Linux-Networking-Platform-C-DPDK-ODP-
+High-Performance Linux Networking Platform is a telecom-grade packet-processing framework designed for ultra-low-latency and high-throughput networking workloads.The platform demonstrates scalable Linux-based dataplane architecture using DPDK,ODP,and modern C++ for carrier-grade packet acceleration,routing NAT,firewalling, and VPN traffic handling.
