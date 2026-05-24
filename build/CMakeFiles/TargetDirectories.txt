@@ -1,3 +1,0 @@
-/workspaces/High-Performance-Linux-Networking-Platform-C-DPDK-ODP-/build/CMakeFiles/network_platform.dir
-/workspaces/High-Performance-Linux-Networking-Platform-C-DPDK-ODP-/build/CMakeFiles/edit_cache.dir
-/workspaces/High-Performance-Linux-Networking-Platform-C-DPDK-ODP-/build/CMakeFiles/rebuild_cache.dir

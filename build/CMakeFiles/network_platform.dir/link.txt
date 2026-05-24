@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/network_platform.dir/src/main.cpp.o CMakeFiles/network_platform.dir/src/packet_engine.cpp.o CMakeFiles/network_platform.dir/src/router.cpp.o CMakeFiles/network_platform.dir/src/firewall.cpp.o CMakeFiles/network_platform.dir/src/nat.cpp.o -o network_platform 
